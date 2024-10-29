@@ -40,6 +40,7 @@ XML-файл `orders.xml` должен находиться в корневой 
         </user>
     </order>
 </orders>
+```
 ## Требования
 - .NET SDK: 7.0 или выше.
  - SQLite: База данных Orders.db.
